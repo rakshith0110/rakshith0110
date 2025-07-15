@@ -28,7 +28,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-    
+    ![snake gif](https://github.com/rakshith0110/rakshith0110/blob/output/github-snake-dark.svg)
 </div>
 
 
