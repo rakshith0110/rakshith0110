@@ -1,8 +1,5 @@
 I'm **RAKSHITH P R**, a passionate Java Developer and a B.Tech student specializing in Computer Science and Engineering at NMAM Institute of Technology, graduating in 2026. I love crafting efficient code and working on innovative projects!
 
-## About Me
-
-Currently based in India, I'm a dedicated student with a keen interest in software development. My journey in programming began with a fascination for solving problems and creating applications that can make life easier. I'm continuously learning and exploring new technologies to enhance my skills.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rakshith.poojary.5437/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/code_with_rax/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rakshith-p-r-522b1b320/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@codewithrax) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codewithrax@gmail.com) 
 
