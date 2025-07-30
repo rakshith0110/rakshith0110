@@ -11,7 +11,6 @@ I'm **RAKSHITH P R**, a passionate Java Developer and a B.Tech student specializ
 ![](https://github-readme-stats.vercel.app/api?username=rakshith0110&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=rakshith0110&theme=codeSTACKr&hide_border=false)<br/>
 
-
 ---
 <img src="https://raw.githubusercontent.com/rakshith0110/rakshith0110/output/snake.svg" alt="Snake animation" />
 
