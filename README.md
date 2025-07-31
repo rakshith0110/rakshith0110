@@ -1,4 +1,4 @@
-I'm **RAKSHITH P R**, a passionate Java Developer and a B.Tech student specializing in Computer Science and Engineering at NMAM Institute of Technology, graduating in 2026. I love crafting efficient code and working on innovative projects!
+I'm **RAKSHITH P R**, a passionate Java Developer and a **B.Tech** student specializing in Computer Science and Engineering at **NMAM Institute of Technology**, graduating in **2026**. I love crafting efficient code and working on innovative projects!
 
 ## 🌱 I'm Currently Learning
 - Mastering **Data Structures and Algorithms (DSA)** in Java.
@@ -16,7 +16,7 @@ I'm **RAKSHITH P R**, a passionate Java Developer and a B.Tech student specializ
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[Zidio connetion](link-to-repo)** |  On going project. | Spring Boot, MySQL |
+| **[Zidio connection](link-to-repo)** |  On going project. | Spring Boot, MySQL |
 | **[Capsi Food](Capsi-food-website)** | Online food ordering Website. | HTML, CSS, JavaScript |
 
 
