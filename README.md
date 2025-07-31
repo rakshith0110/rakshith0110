@@ -16,8 +16,9 @@ I'm **RAKSHITH P R**, a passionate Java Developer and a B.Tech student specializ
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[Capsi Food](Capsi-food-website)** | A brief, one-sentence description of what your project does. | Java, Spring Boot, MySQL |
-| **[Project Name 2](link-to-repo)** | A brief, one-sentence description of what your project does. | React, Node.js, MongoDB |# 🚀 My Projects
+| **[Zidio connetion](link-to-repo)** |  On going project. | Spring Boot, MySQL |
+| **[Capsi Food](Capsi-food-website)** | Online food ordering Website. | HTML, CSS, JavaScript |
+
 
 
 # 📊 GitHub Stats:
