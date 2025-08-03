@@ -16,7 +16,7 @@ I'm **RAKSHITH P R**, a passionate Java Developer and a **B.Tech** student speci
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[Zidio connection](Zidio-Connection)** |  On going project. | Spring Boot, MySQL |
+| **[Zidio connection](rakshith0110/Zidio-Connection)** |  On going project. | Spring Boot, MySQL |
 | **[Capsi Food](Capsi-food-website)** | Online food ordering Website. | HTML, CSS, JavaScript |
 
 
