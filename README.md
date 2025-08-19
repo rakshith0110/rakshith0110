@@ -17,7 +17,7 @@ I'm **RAKSHITH P R**, a passionate Java Developer and a **B.Tech** student speci
 | Project | Description | Tech Stack |
 |---|---|---|
 | **[Zidio connection](Zidio-Connection)** |  On going project. | Spring Boot, MySQL |
-| **[Greencart](Greencart - Online Shop)** | Online grocery ordering Website. | MERN stack |
+| **[Greencart](Greencart-Online)** | Online grocery ordering Website. | MERN stack |
 
 
 
