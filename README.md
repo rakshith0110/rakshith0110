@@ -1,8 +1,8 @@
-I'm **RAKSHITH P R**, a passionate Java Developer and a **B.Tech** student specializing in Computer Science and Engineering at **NMAM Institute of Technology**, graduating in **2026**. I love crafting efficient code and working on innovative projects!
+I'm **RAKSHITH P R**, a passionate Python Developer and a **B.Tech** student specializing in Computer Science and Engineering at **NMAM Institute of Technology**, graduating in **2026**. I love crafting efficient code and working on innovative projects!
 
 ## 🌱 I'm Currently Learning
-- Mastering **Data Structures and Algorithms (DSA)** in Java.
-- Developing backend applications with the **Spring Framework** and **Spring Boot**.
+- Mastering **Data Structures and Algorithms (DSA)** in Python.
+- Developing backend applications with the **Flask Framework** and **REST API**.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rakshith.poojary.5437/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/code_with_rax/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshith-p-r-522b1b320/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@codewithrax) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codewithrax@gmail.com)
